@@ -2,6 +2,10 @@
 
 Welcome to the Chair Sphere project! Explore a stylish online chair store with elegant designs and a seamless user experience.
 
+## Demo
+
+![Chair Sphere](Screenshot 2024-03-12 at 4.20.55 PM.png)
+
 ## Table of Contents
 
 - [Demo](#demo)
