@@ -18,7 +18,7 @@ Welcome to the Chair Sphere project! Explore a stylish online chair store with e
 
 ## Demo
 
-[View Demo](#) <!-- Add a link to your live demo if available -->
+[View Demo](chair-sphere.vercel.app) <!-- Add a link to your live demo if available -->
 
 ## Features
 
