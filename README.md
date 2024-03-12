@@ -4,7 +4,7 @@ Welcome to the Chair Sphere project! Explore a stylish online chair store with e
 
 ## Demo
 
-![Screenshot 1](screenshots/Screenshot%202024-03-12%20at%204.20.55%20PM.png)
+![Screenshot 1](/Screenshot%202024-03-12%20at%204.20.55%20PM.png)
 ![Screenshot 2](screenshots/Screenshot%202024-03-12%20at%204.21.12%20PM.png)
 
 ## Table of Contents
